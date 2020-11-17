@@ -23,13 +23,13 @@
     "@typescript-eslint/eslint-plugin": "^1.13.0",
     "@typescript-eslint/parser": "^1.13.0",
     "eslint": "^5.16.0",
-    "jest": "^24.9.0",
+    "jest": "^26.0.0",
     "rimraf": "^2.7.1",
     "ts-jest": "^24.3.0",
     "ts-loader": "^4.4.1",
     "typescript": "^3.8.3",
-    "webpack": "^4.42.1",
-    "webpack-cli": "^3.3.11"
+    "webpack": "^5.1.1",
+    "webpack-cli": "^4.0.0"
   },
   "resolutions": {
     "**/set-value": "^2.0.1"
