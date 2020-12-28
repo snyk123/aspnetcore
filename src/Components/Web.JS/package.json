@@ -26,9 +26,9 @@
     "jest": "^24.9.0",
     "rimraf": "^2.7.1",
     "ts-jest": "^24.3.0",
-    "ts-loader": "^4.4.1",
+    "ts-loader": "^6.0.0",
     "typescript": "^3.8.3",
-    "webpack": "^4.42.1",
+    "webpack": "^5.0.0",
     "webpack-cli": "^3.3.11"
   },
   "resolutions": {
